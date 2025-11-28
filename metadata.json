@@ -1,0 +1,7 @@
+{
+  "name": "ASR Workbench",
+  "description": "An experimental workbench for evaluating ASR models on Indian-English speech. Records audio, transcribes using GenAI, calculates WER, and provides accent analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
